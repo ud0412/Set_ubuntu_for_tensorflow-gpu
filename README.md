@@ -24,6 +24,7 @@ Anaconda 의 tensorflow-gpu 1.12.0 를 사용하기 위한 Ubuntu 설정
   - cuda toolkit 9.2 를 설치하면 nvidia driver 396 가 설치 된다. 따라서 미리 nvidia driver 를 설치해줄 필요가 없다.
   - reboot 한다.
   - cudnn package 를 설치 한다. (파일 어플리케이션에서 더블 클릭) <-안 해줘도 tensorflow-gpu 동작함..... ???
+  - tensorflow 1.10 부터 1.12 는 cuda 9.2 를 사용해야 하며 tensorflow 1.9 는 cuda 9.0 을 사용해야 함. 아니면 insufficient cuda version error 가 발생함.
 3. Anaconda 설치
   - Anaconda 를 download 받는다.
     * https://www.anaconda.com/distribution/
