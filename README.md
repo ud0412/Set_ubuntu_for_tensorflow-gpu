@@ -59,6 +59,6 @@ totalMemory: 5.94GiB freeMemory: 5.64GiB
 2019-02-04 17:54:16.787939: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 5416 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1060, pci bus id: 0000:01:00.0, compute capability: 6.1)
 </code></pre>
   * 3분 딥러닝 텐스플로우맛의 GAN sample 을 이용하여 test 결과
-    - CPU - i7-8750H : 100회 실행에 21분
-    - GPU - GTX 1060 Mobile : 100회 실행에 3분
+    - CPU - i7-8750H : 21분
+    - GPU - GTX 1060 Mobile : 3분
 
