@@ -62,3 +62,4 @@ totalMemory: 5.94GiB freeMemory: 5.64GiB
     - CPU - i7-8750H : 21분
     - GPU - GTX 1060 Mobile : 3분
 
+https://docs.nvidia.com/deploy/cuda-compatibility/index.html
