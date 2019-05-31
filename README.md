@@ -64,6 +64,7 @@ totalMemory: 5.94GiB freeMemory: 5.64GiB
 
 https://docs.nvidia.com/deploy/cuda-compatibility/index.html
 
+    Conda Python Tensorflow-gpu version
     | tensorflow-gpu version | cuda version | cudnn version |
     |      1.13.1            |      10.0    |     7.3.1     |
     |      1.12.0            |       9.2    |     7.3.1     |
