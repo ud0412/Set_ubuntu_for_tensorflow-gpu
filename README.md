@@ -63,3 +63,17 @@ totalMemory: 5.94GiB freeMemory: 5.64GiB
     - GPU - GTX 1060 Mobile : 3분
 
 https://docs.nvidia.com/deploy/cuda-compatibility/index.html
+
+    | tensorflow-gpu version | cuda version | cudnn version |
+    |      1.13.1            |      10.0    |     7.3.1     |
+    |      1.12.0            |       9.2    |     7.3.1     |
+    |      1.11.0            |       9.2    |     7.3.1     |
+    |      1.10.0            |       9.2    |     7.3.1     |
+    |      1.9.0             |       9.0    |     7.3.1     |
+    |      1.8.0             |       9.0    |     7.3.1     |
+    |      1.7.0             |       9.0    |     7.3.1     |
+    |      1.6.0             |       9.0    |     7.3.1     |
+    |      1.5.0             |       9.0    |     7.3.1     |
+    |      1.4.1             |       8.0    |     7.1.3     |
+    |      1.3.0             |       8.0    |     6.0.21    |
+    
